@@ -1,4 +1,4 @@
-<div align="center">
+66< div  align = “中心” >
 <h1>Freenom: freenom domain name renews automatically</h1>
 
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
